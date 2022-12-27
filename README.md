@@ -31,4 +31,4 @@ https://og-scraper-three.vercel.app/api?url=https://ogp.me/
 }
 ```
 
-checkout here for your self https://og-scraper-three.vercel.app/api?url=https://ogp.me/
+checkout here for yourself https://og-scraper-three.vercel.app/api?url=https://ogp.me/
