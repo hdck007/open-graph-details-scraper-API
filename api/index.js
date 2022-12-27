@@ -9,7 +9,7 @@ async function getOGData(url) {
 export default async function handler(request, response) {
 	if (!request.query.url) {
 		return response.send(
-			"<h1>Hey there! Please provide a url to get the OG data, url as query parameter.</h1> <p>Simply append <code><pre>'?url=<the url>'</pre></code></p>"
+			"<h1>Hey there! Please provide a url to get the OG data, url as query parameter.</h1> <p>Simply append <code>'?url=the-url'</code></p>"
 		);
 	}
 	const { result, error } = await getOGData(request.query.url);
