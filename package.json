@@ -1,0 +1,16 @@
+{
+  "name": "og-scraper",
+  "version": "1.0.0",
+  "description": "A api for scraping open graph details from a url",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hdck007 - Haridarshan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "open-graph-scraper": "^5.0.2"
+  }
+}
