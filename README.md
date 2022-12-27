@@ -4,3 +4,5 @@ A api(in the form of vercel serverless functions) to get og graph details for di
 It will be free until and unless VERCEL is free, Though free tier has a very small limit and this is not intended for intensive use. 
 
 For me it serves it's purpose!!
+
+Access from /api endpoint
